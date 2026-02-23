@@ -55,3 +55,8 @@ Total Orders
 Total Sold Quantity
 
 Days on Hand
+
+Author
+Hemaraj
+Data Analyst Intern
+Project: OptiStock – Supply Chain & Inventory Optimization
